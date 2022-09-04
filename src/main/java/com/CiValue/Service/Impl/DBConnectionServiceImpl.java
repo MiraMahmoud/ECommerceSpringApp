@@ -1,9 +1,8 @@
 package com.CiValue.Service.Impl;
 
 import com.CiValue.Service.DBConnectionService;
-
-import Model.Product;
-import Model.Shopper;
+import com.CiValue.Model.Product;
+import com.CiValue.Model.Shopper;
 
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;

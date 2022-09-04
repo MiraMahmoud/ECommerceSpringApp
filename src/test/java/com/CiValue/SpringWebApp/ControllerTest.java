@@ -9,9 +9,8 @@ import org.springframework.boot.test.autoconfigure.web.servlet.AutoConfigureMock
 import org.springframework.boot.test.context.SpringBootTest;
 
 import com.CiValue.Service.Impl.DBConnectionServiceImpl;
-
-import Model.Product;
-import Model.Shopper;
+import com.CiValue.Model.Product;
+import com.CiValue.Model.Shopper;
 
 @SpringBootTest
 @AutoConfigureMockMvc

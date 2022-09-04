@@ -12,9 +12,9 @@ import java.util.List;
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
-import Model.Product;
-import Model.Shelf;
-import Model.Shopper;
+import com.CiValue.Model.Product;
+import com.CiValue.Model.Shelf;
+import com.CiValue.Model.Shopper;
 
 public class DBConnectionService {
     private static DBConnectionService instance;

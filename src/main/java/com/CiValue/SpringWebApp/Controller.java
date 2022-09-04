@@ -14,8 +14,8 @@ import org.springframework.boot.context.properties.bind.DefaultValue;
 import com.CiValue.Service.Impl.DBConnectionServiceImpl;
 import com.google.gson.Gson;
 
-import Model.Product;
-import Model.Shopper;
+import com.CiValue.Model.Product;
+import com.CiValue.Model.Shopper;
 import io.swagger.annotations.ApiParam;
 
 @RestController

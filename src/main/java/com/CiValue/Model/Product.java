@@ -1,4 +1,4 @@
-package Model;
+package com.CiValue.Model;
 
 public class Product {
     private String productId;

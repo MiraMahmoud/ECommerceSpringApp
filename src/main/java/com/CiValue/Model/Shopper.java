@@ -1,4 +1,4 @@
-package Model;
+package com.CiValue.Model;
 
 import java.util.List;
 
